@@ -1,5 +1,5 @@
 import unittest
-from module.contact_list_v2 import ContactList
+from module.contact_list import ContactList
 
 class TestContactList(unittest.TestCase):
     def setUp(self):
